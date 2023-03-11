@@ -3,7 +3,7 @@
 ## Resumo
 Repositório para estudo de SQL e conexão com a linguagem Python.
 
-## Script 1
+## Main.py
 Realizando a crianção de uma database com SQLite e algumas operações como leitura, escrita e busca utilizando a linguagem Python.
 - Criando base de dados
 connection = sqlite3.connect("alunos.db")
@@ -49,13 +49,13 @@ qtd_cidades = cursor.fetchall()
 print(len(qtd_cidades))
 print("******************************")
 
-- Resultados
+## Resultados
 <br>
--- Todos os valores da tabela escola <br>
+- Todos os valores da tabela escola <br>
 ![image](https://user-images.githubusercontent.com/65053026/224455058-41ff9d75-ae52-4395-a43f-8ef277380694.png) <br>
 
--- Exibindo a coluna de cidades da tabela escola <br>
+- Exibindo a coluna de cidades da tabela escola <br>
 ![image](https://user-images.githubusercontent.com/65053026/224455093-93cefb91-0ff1-4522-9f31-dd9e43d162b8.png) <br>
 
--- Exibindo a quantidade de cidades da tabela escola <br>
+- Exibindo a quantidade de cidades da tabela escola <br>
 ![image](https://user-images.githubusercontent.com/65053026/224455111-ecdc6378-e816-431e-9364-71d42a358e22.png) <br>
