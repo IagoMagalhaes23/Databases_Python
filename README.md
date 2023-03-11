@@ -50,6 +50,7 @@ print(len(qtd_cidades))
 print("******************************")
 
 - Resultados
+<br>
 -- Todos os valores da tabela escola <br>
 ![image](https://user-images.githubusercontent.com/65053026/224455058-41ff9d75-ae52-4395-a43f-8ef277380694.png) <br>
 
