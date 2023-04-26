@@ -1,9 +1,9 @@
-# SQL
+# Estudo sobre banco de dados com Python
 
 ## Resumo
 Repositório para estudo de SQL e conexão com a linguagem Python.
 
-## Main.py
+## SQL Lite
 Realizando a crianção de uma database com SQLite e algumas operações como leitura, escrita e busca utilizando a linguagem Python.
 - Criando base de dados
 connection = sqlite3.connect("alunos.db")
@@ -49,7 +49,7 @@ qtd_cidades = cursor.fetchall()
 print(len(qtd_cidades))
 print("******************************")
 
-## Resultados
+### Resultados
 - Todos os valores da tabela escola <br>
 ![image](https://user-images.githubusercontent.com/65053026/224455058-41ff9d75-ae52-4395-a43f-8ef277380694.png) <br>
 
@@ -58,3 +58,10 @@ print("******************************")
 
 - Exibindo a quantidade de cidades da tabela escola <br>
 ![image](https://user-images.githubusercontent.com/65053026/224455111-ecdc6378-e816-431e-9364-71d42a358e22.png) <br>
+
+## MySQL
+
+## MongoDB
+
+## PostgreSQl
+
