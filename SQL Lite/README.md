@@ -58,10 +58,3 @@ print("******************************")
 
 - Exibindo a quantidade de cidades da tabela escola <br>
 ![image](https://user-images.githubusercontent.com/65053026/224455111-ecdc6378-e816-431e-9364-71d42a358e22.png) <br>
-
-## MySQL
-
-## MongoDB
-
-## PostgreSQl
-
